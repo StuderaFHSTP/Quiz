@@ -1,0 +1,87 @@
+{
+    "id": "InitalQuiz",
+    "quizName": "Städte Quiz",
+    "questions": [
+        {
+            "id": "1",
+            "title": "Was ist die Hauptstadt von Deutschland?",
+            "a1": "Berlin",
+            "a2": "Hamburg",
+            "a3": "München",
+            "a4": "Köln",
+            "correct": 1
+        },
+        {
+            "id": "dc9e7e2d-51c6-4bbd-b796-d3c418b7fc3d",
+            "title": "Was ist die Hauptstadt von Frankreich?",
+            "a1": "Paris",
+            "a2": "Lyon",
+            "a3": "Marseille",
+            "a4": "Nizza",
+            "correct": 1
+        },
+        {
+            "id": "3",
+            "title": "Was ist die Hauptstadt von Italien?",
+            "a1": "Rom",
+            "a2": "Mailand",
+            "a3": "Neapel",
+            "a4": "Turin",
+            "correct": 1
+        },
+        {
+            "id": "4",
+            "title": "Was ist die Hauptstadt von Spanien?",
+            "a1": "Madrid",
+            "a2": "Barcelona",
+            "a3": "Valencia",
+            "a4": "Sevilla",
+            "correct": 1
+        },
+        {
+            "id": "5",
+            "title": "Was ist die Hauptstadt von England?",
+            "a1": "London",
+            "a2": "Manchester",
+            "a3": "Liverpool",
+            "a4": "Birmingham",
+            "correct": 1
+        },
+        {
+            "id": "6",
+            "title": "Was ist die Hauptstadt von Österreich?",
+            "a1": "Wien",
+            "a2": "Graz",
+            "a3": "Linz",
+            "a4": "Salzburg",
+            "correct": 1
+        },
+        {
+            "id": "7",
+            "title": "Was ist die Hauptstadt von der Schweiz?",
+            "a1": "Bern",
+            "a2": "Zürich",
+            "a3": "Genf",
+            "a4": "Basel",
+            "correct": 1
+        },
+        {
+            "id": "8",
+            "title": "Was ist die Hauptstadt von den Niederlanden?",
+            "a1": "Amsterdam",
+            "a2": "Rotterdam",
+            "a3": "Den Haag",
+            "a4": "Utrecht",
+            "correct": 1
+        },
+        {
+            "id": "9",
+            "title": "Was ist die Hauptstadt von Belgien?",
+            "a1": "Brüssel",
+            "a2": "Antwerpen",
+            "a3": "Gent",
+            "a4": "Brügge",
+            "correct": 1
+        }
+    ]
+}

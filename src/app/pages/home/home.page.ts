@@ -16,6 +16,10 @@ export class HomePage {
   constructor() {
   }
 
+  ngOnInit() {
+    // this.data.loadQuiz();
+  }
+
 
   showList() {
     this.router.navigate(['/list']);

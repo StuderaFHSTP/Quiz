@@ -21,6 +21,7 @@ export class QuestionListPage implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    // this.data.loadQuiz();
   }
 
   public show(qid: string) {
@@ -28,7 +29,8 @@ export class QuestionListPage implements OnInit {
   }
 
   public delete(q: Question) {
-  this.data.deleteQuestion(q);
+    this.data.deleteQuestion(q);
+    this.data.saveQuiz();
   }
 
 }
