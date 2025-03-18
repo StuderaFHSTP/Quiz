@@ -24,4 +24,8 @@ export class HomePage {
   showList() {
     this.router.navigate(['/list']);
   }
+
+  startQuiz() {
+    this.router.navigate(['/quiz']);
+  }
 }

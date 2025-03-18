@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="title_activity_main">Quiz</string>
+    <string name="package_name">ac.at.studi.quiz202503</string>
+    <string name="custom_url_scheme">ac.at.studi.quiz202503</string>
+</resources>
